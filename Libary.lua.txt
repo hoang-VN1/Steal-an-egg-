@@ -9,7 +9,7 @@ local TextService      = game:GetService("TextService")
 local HttpService      = game:GetService("HttpService")
 local Workspace        = game:GetService("Workspace")
 
-local DEFAULT_LOGO = "rbxassetid://131675609143159"
+local DEFAULT_LOGO = "https://raw.githubusercontent.com/hoang-VN1/Steal-an-egg-/refs/heads/main/ChatGPT%20Image%2005_47_17%2026%20thg%209%2C%202026.png"
 local TWEEN = TweenInfo.new(0.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
 local NOTIFICATION_TWEEN = TweenInfo.new(0.18, Enum.EasingStyle.Quart, Enum.EasingDirection.Out)
 local PROFILE_TWEEN = TweenInfo.new(0.32, Enum.EasingStyle.Quart, Enum.EasingDirection.Out)
